@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/retailstore/static/css/main.073c9b0a.css",
+    "main.js": "/retailstore/static/js/main.73051da7.js",
+    "static/js/787.176a5061.chunk.js": "/retailstore/static/js/787.176a5061.chunk.js",
+    "static/media/rs.jpg": "/retailstore/static/media/rs.85f5c13e54ad3ba848bb.jpg",
+    "static/media/logo.svg": "/retailstore/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/retailstore/index.html",
+    "main.073c9b0a.css.map": "/retailstore/static/css/main.073c9b0a.css.map",
+    "main.73051da7.js.map": "/retailstore/static/js/main.73051da7.js.map",
+    "787.176a5061.chunk.js.map": "/retailstore/static/js/787.176a5061.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.73051da7.js"
+  ]
+}
